@@ -1,0 +1,8 @@
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\bin\Debug\Nodes.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\bin\Debug\Nodes.exe
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\bin\Debug\Nodes.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\obj\Debug\Nodes.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\obj\Debug\Nodes.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\obj\Debug\Nodes.exe
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\obj\Debug\Nodes.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Nodes\obj\Debug\Nodes.exe.config
